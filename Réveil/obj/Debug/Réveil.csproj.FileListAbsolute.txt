@@ -1,0 +1,16 @@
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\Réveil.csproj.GenerateResource.Cache
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Baptiste\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.reveil.resources
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\obj\Debug\WindowsFormsApplication1.reveil.resources
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\obj\Debug\Réveil.csproj.GenerateResource.Cache
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\bin\Debug\Réveil.exe
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\bin\Debug\Réveil.pdb
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\obj\Debug\Réveil.exe
+C:\Documents and Settings\Baptiste\Mes documents\Visual Studio 2008\Projects\Réveil\Réveil\obj\Debug\Réveil.pdb
